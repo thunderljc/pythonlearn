@@ -1,2 +1,5 @@
 # pythonlearn
-用于编写一些python代码进行试验
+这里用于编写python代码进行试验
+hello
+just
+watch
